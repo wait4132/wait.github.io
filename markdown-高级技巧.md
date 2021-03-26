@@ -1,8 +1,4 @@
-不在 Markdown 涵盖范围之内的标签，都可以直接在文档里面用 HTML 撰写。如：
 
-  
-  使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
-  
 Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：
 \\   反斜线  
 \`   反引号  
