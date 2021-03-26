@@ -5,5 +5,5 @@
 [markdown代码](markdown-代码.md)  
 [markdown链接](markdown-链接.md)  
 [markdown图片](markdown-图片.md)  
-[markdown区块](markdown-区块.md)  
-[markdown区块](markdown-区块.md)
+[markdown表格](markdown-表格.md)  
+[markdown高级技巧](markdown-高级技巧.md)
